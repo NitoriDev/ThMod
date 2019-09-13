@@ -1,2 +1,3 @@
 # ThMod
-Touhou mods and stuff
+unused for now
+TODO
