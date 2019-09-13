@@ -1,6 +1,6 @@
 {
 	"contact": "Nitori-chan#1525",
-	"id": "Nitori",
+	"id": "Nitori-chan",
 	"patches": {
 		"NitoriShottypes": "Shottype Mod [th12] WARNING: Replay incompatible with unmodded"
 	},
